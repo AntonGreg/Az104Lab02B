@@ -110,4 +110,22 @@ En esta tarea, crearemos y asignaremos una etiqueta a un grupo de recursos de Az
 
          ***Home>Buscar>Policy>Authoring>Assignments***
 
-         Borramos el assignment que hay
+         Borramos el assignment que hay:
+
+         ![](img/img9.png)
+
+         Después asignaremos otra política con las siguientes configuraciones:
+
+         ![](img/img10.png)
+
+         ![](img/img11.png)
+
+         ![](img/img12.png)
+
+         Luego volveremos al grupo de recursos y crearemos una cuenta de almacenamiento de nuevo para así comprobar como la directiva se aplicó directamente y los tags aparecen automáticamente sin nosotros añadirlos manualmente sin darnos ya ninguna clase de error:
+
+         
+
+         ![](img/img13.png)
+
+         ![](img/img14.png)
